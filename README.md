@@ -13,6 +13,7 @@ YOLOv8 kaynak sayfası : https://ultralytics.com/yolov8
 
 
 
+
 <h1> English </h1>
 This repo includes custom dataset training on YOLOv8 and object detection outputs obtained as a result of training. The related application was made on Colab.
 YOLOv8 source : https://ultralytics.com/yolov8
